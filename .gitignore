@@ -56,3 +56,4 @@ ios/Runner.app.dSYM.zip
 ios/Runner.ipa
 ios/fastlane/README.md
 ios/fastlane/report.xml
+lib/constant.dart
