@@ -12,7 +12,6 @@ class OpenAIService {
       'Content-Type': 'application/json',
       'Authorization': 'Bearer ${Constant.OPEN_AI_KEY}',
     };
-
     final body = jsonEncode({
       'model': 'gpt-4o',
       'messages': [
