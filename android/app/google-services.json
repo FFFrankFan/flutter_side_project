@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036663667129",
+    "project_id": "frank-side-project",
+    "storage_bucket": "frank-side-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036663667129:android:e46e3d633f18f3b2751e68",
+        "android_client_info": {
+          "package_name": "com.frank.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCftbGMbHtpQ9LMQ3P-UP_KNNXPo1NnM3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
